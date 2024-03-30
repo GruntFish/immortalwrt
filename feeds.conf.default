@@ -1,5 +1,5 @@
 src-git packages https://github.com/immortalwrt/packages.git
-src-git luci https://github.com/GruntFish/luci.git
+src-git luci https://github.com/GruntFish/luci-21-02.git;21.02
 src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://github.com/openwrt/telephony.git
 src-git smallpackage https://github.com/Glunefish/small-package.git;main
